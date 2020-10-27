@@ -1,0 +1,20 @@
+{
+    "Author": "Azure SQL DB Elastic database tools",
+    "ContentSize": 22042,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/azure-sql-database-managing-multiple-databases-using-elastic-database-jobs/master/EdjCollectedResourceStats.ps1",
+    "DownloadCount": 1315,
+    "Id": "Automating-management-of-e7c15e2f",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 204,
+    "RaterCount": 1,
+    "Rating": 5.0,
+    "ReleaseDate": "2015-8-27T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "This script demonstrates using Elastic Database jobs to continuously monitor the performance of many databases by creating a custom collection containing all databases in a server, script, schedule and a job to execute the script against the group of databases on the schedule.",
+    "Title": "Azure SQL Database: Managing multiple databases using Elastic Database Jobs",
+    "UpdatedDate": "2015-8-27T00:00:00",
+    "Url": "https://github.com/azureautomation/azure-sql-database-managing-multiple-databases-using-elastic-database-jobs",
+    "UserTags": "Jobs, Scheduled Task, Windows Azure SQL Database"
+}
